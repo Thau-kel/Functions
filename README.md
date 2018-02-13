@@ -1,2 +1,12 @@
 # functions
-parameters, arguments, variables...
+## function parameters
+
+## local variables
+
+## the global statement
+
+## default arguments
+
+## keyword arguments
+
+## VarArgs parameters
