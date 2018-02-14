@@ -14,3 +14,5 @@
 ## the return statement
 
 ## DocStrings
+- print(print_max.__doc__)
+- help(print_max)
