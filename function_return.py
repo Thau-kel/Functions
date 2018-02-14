@@ -7,4 +7,3 @@ def maximum(x, y):
         return y
         
 print(maximum(2, 3))
-    
