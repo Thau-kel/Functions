@@ -12,4 +12,4 @@ def print_max(x, y):
         print(y, 'is maximum')
         
 print_max(4, 9)
-print(print_max.__doc__)
+help(print_max)
